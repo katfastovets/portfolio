@@ -403,14 +403,8 @@ address {
 	.wrapper_for_about {
 		padding-left: 14px;
 	}
-	.about a,
-	.about h1,
-	.about img {
-		/* margin-left: 10px; */
-	}
 	.about .description {
-		/* padding-left: 14px; */
-		margin-left: 0;
+		margin-left: 14px;
 		text-align: justify;
 	}
 	.about a:last-of-type {
@@ -465,6 +459,8 @@ address {
 		padding: 14px;	
 	}
 	.about .description {
+		padding-left: 14px;
+		margin-left: 0;
 		display: block;
 		width: 96%;
 		margin-right: 25px;
